@@ -1,0 +1,11 @@
+name: LifeSteal
+version: '1.0-SNAPSHOT'
+main: fr.arcane.lifesteal.LifeSteal
+api-version: 1.19
+authors: [ Arcane ]
+description: LifeSteal SMP plugin
+
+commands:
+  life:
+    description: Life command
+    permission: lifesteal.lifecontrol

@@ -1,0 +1,5 @@
+fr\arcane\lifesteal\events\BossKillEvent.class
+fr\arcane\lifesteal\commands\LifeCommand.class
+fr\arcane\lifesteal\items\HeartApple.class
+fr\arcane\lifesteal\events\DeathEvent.class
+fr\arcane\lifesteal\LifeSteal.class
